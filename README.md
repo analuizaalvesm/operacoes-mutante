@@ -55,7 +55,7 @@ Este comando executa o teste de mutação com StrykerJS, que cria mutantes do c�
 - Compare os resultados para identificar onde os testes precisam ser melhorados
 - Acesse o relatório detalhado em `docs/mutation.html`
 
-### Resumo das Melhorias Implementadas
+## Soluções Implementadas
 
 Durante este projeto, foram identificadas várias deficiências na suíte de testes original através do teste de mutação. As principais melhorias implementadas incluíram:
 
