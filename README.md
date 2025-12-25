@@ -1,6 +1,6 @@
-# Laboratório: Teste de Mutação com a "Calculadora Mutante"
+# Trabalho Prático - Teste de Mutação (Mutant Calculator)
 
-Bem-vindo ao trabalho prático de Teste de Mutação. O objetivo deste projeto é usar a ferramenta StrykerJS para avaliar e fortalecer uma suíte de testes que, à primeira vista, parece boa.
+Este projeto tem como objetivo aplicar testes de mutação em uma aplicação de calculadora, utilizando a ferramenta StrykerJS, a fim de avaliar a eficácia de uma suíte de testes que inicialmente aparenta ser adequada.
 
 ## Contexto
 
